@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title />
+            </titleStmt>
+            <pubStmt>
+                <date>2017-08-29 23:53:19</date>
+            </pubStmt>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Encoded with Verovio version 2.0.0-dev-cba6710</p>
+            </projectDesc>
+        </encodingDesc>
+    </meiHead>
+    <music>
+        <body>
+            <mdiv>
+                <score>
+                    <scoreDef xml:id="scoredef-0000000430759556" key.sig="3f" meter.sym="cut">
+                        <staffGrp xml:id="staffgrp-0000002088033574">
+                            <staffDef xml:id="staffdef-0000001550002591" clef.shape="G" clef.line="2" n="1" lines="5" />
+                        </staffGrp>
+                    </scoreDef>
+                    <section xml:id="section-0000001900113865">
+                        <measure xml:id="measure-0000000047808960" right="single">
+                            <staff xml:id="staff-0000002131898165" n="1">
+                                <layer xml:id="layer-0000001492042342" n="1">
+                                    <note xml:id="note-0000000589095975" dur="2" oct="4" pname="e" />
+                                    <note xml:id="note-0000001036439155" dots="1" dur="4" oct="4" pname="g" />
+                                    <beam xml:id="beam-0000002133894884">
+                                        <note xml:id="note-0000001193017268" dur="16" oct="4" pname="f" />
+                                        <note xml:id="note-0000001394410488" dur="16" oct="4" pname="e" />
+                                    </beam>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure xml:id="measure-0000000762685375" right="single">
+                            <staff xml:id="staff-0000000368032105" n="1">
+                                <layer xml:id="layer-0000000046490327" n="1">
+                                    <note xml:id="note-0000001826362028" dur="2" oct="4" pname="b" />
+                                    <note xml:id="note-0000001682838025" dur="2" oct="5" pname="g" />
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure xml:id="measure-0000001313646448" right="single">
+                            <staff xml:id="staff-0000001099055185" n="1">
+                                <layer xml:id="layer-0000001431151934" n="1">
+                                    <beam xml:id="beam-0000001922372893">
+                                        <note xml:id="note-0000001553708338" dur="16" oct="5" pname="d" />
+                                        <note xml:id="note-0000000429743536" dur="16" oct="5" pname="c" />
+                                    </beam>
+                                    <note xml:id="note-0000000712104691" dots="1" dur="4" oct="4" pname="b" />
+                                    <beam xml:id="beam-0000002105635334">
+                                        <note xml:id="note-0000000417176906" dur="16" oct="5" pname="d" />
+                                        <note xml:id="note-0000001030039625" dur="16" oct="5" pname="c" />
+                                    </beam>
+                                    <note xml:id="note-0000001010298908" dots="1" dur="4" oct="4" pname="b" />
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                </score>
+            </mdiv>
+        </body>
+    </music>
+</mei>
