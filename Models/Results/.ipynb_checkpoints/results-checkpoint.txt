@@ -1,0 +1,27 @@
+1
+Semantic
+Complete accuracy: 24.96%
+Symbol error rate: 11.17%
+Error rate: 0.21%
+
+Agnostic
+Complete accuracy: 25.97%
+Symbol error rate: 11.48%
+Error rate: 0.21%
+
+Multitask
+Complete accuracy: 12.47%
+Semantic
+Complete accuracy: 17.12%
+Symbol error rate: 15.29%
+Error rate: 0.28%
+Agnostic
+Complete accuracy: 23.57%
+Symbol error rate: 12.41%
+Error rate: 0.24%
+
+2
+Semantic
+Complete accuracy: 17.68%
+Symbol error rate: 14.22%
+Error rate: 0.32%
