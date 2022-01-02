@@ -1,5 +1,5 @@
-Data download: https://drive.google.com/file/d/13RmRDkvpTJ8NrYjbYNJy-wF2DQ58pBql/view?usp=sharing
+Data download: https://grfia.dlsi.ua.es/primus/packages/CameraPrIMuS.tgz
 
-Download and unzip in Package folder
+Download and unzip in Data folder
 
 Run update_data.py to get a list of folders
