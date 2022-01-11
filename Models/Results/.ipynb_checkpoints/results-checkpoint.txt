@@ -38,9 +38,9 @@ Symbol error rate: 14.22%
 Error rate: 0.32%
 
 Agnostic
-Complete accuracy: 13.81%
-Symbol error rate: 17.73%
-Error rate: 0.39%
+Complete accuracy: 22.79%
+Symbol error rate: 13.21%
+Error rate: 0.28%
 
 3. Distorted
 Semantic
@@ -52,3 +52,14 @@ Agnostic
 Complete accuracy: 13.75%
 Symbol error rate: 15.71%
 Error rate: 0.38%
+
+Multitask
+Complete accuracy: 7.39%
+Semantic
+Complete accuracy: 15.11%
+Symbol error rate: 15.01%
+Error rate: 0.3%
+Agnostic
+Complete accuracy: 20.2%
+Symbol error rate: 13.32%
+Error rate: 0.3%
