@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title />
+            </titleStmt>
+            <pubStmt>
+                <date>2017-08-29 21:05:03</date>
+            </pubStmt>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Encoded with Verovio version 2.0.0-dev-cba6710</p>
+            </projectDesc>
+        </encodingDesc>
+    </meiHead>
+    <music>
+        <body>
+            <mdiv>
+                <score>
+                    <scoreDef xml:id="scoredef-0000000261076084" meter.sym="cut">
+                        <staffGrp xml:id="staffgrp-0000001312441146">
+                            <staffDef xml:id="staffdef-0000001393802485" clef.shape="G" clef.line="2" n="1" lines="5" />
+                        </staffGrp>
+                    </scoreDef>
+                    <section xml:id="section-0000000058126872">
+                        <measure xml:id="measure-0000000374866768" right="single">
+                            <staff xml:id="staff-0000001980761966" n="1">
+                                <layer xml:id="layer-0000000365044608" n="1">
+                                    <note xml:id="note-0000002091430824" dur="breve" oct="5" pname="c" tie="i" />
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure xml:id="measure-0000001381690128" right="single">
+                            <staff xml:id="staff-0000000665524872" n="1">
+                                <layer xml:id="layer-0000001997865505" n="1">
+                                    <note xml:id="note-0000000071238043" dur="breve" oct="5" pname="c" tie="t" />
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure xml:id="measure-0000001305386089" right="single">
+                            <staff xml:id="staff-0000001149397322" n="1">
+                                <layer xml:id="layer-0000001045420681" n="1">
+                                    <note xml:id="note-0000001821669460" dur="breve" oct="4" pname="b" />
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure xml:id="measure-0000001065916503" right="single">
+                            <staff xml:id="staff-0000000124258941" n="1">
+                                <layer xml:id="layer-0000000880104166" n="1">
+                                    <note xml:id="note-0000000043357426" dur="breve" oct="5" pname="c" />
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure xml:id="measure-0000001966281141" right="single">
+                            <staff xml:id="staff-0000000711302449" n="1">
+                                <layer xml:id="layer-0000002030688126" n="1">
+                                    <note xml:id="note-0000001965215558" dots="1" dur="1" oct="5" pname="d" />
+                                    <note xml:id="note-0000001079392446" dur="2" oct="5" pname="d" />
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure xml:id="measure-0000001901128636" right="single">
+                            <staff xml:id="staff-0000001554473713" n="1">
+                                <layer xml:id="layer-0000001004723725" n="1">
+                                    <note xml:id="note-0000000727729714" dur="1" oct="5" pname="d" />
+                                    <note xml:id="note-0000001033933533" dur="1" oct="5" pname="d" />
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure xml:id="measure-0000000038374207" right="single">
+                            <staff xml:id="staff-0000002030701254" n="1">
+                                <layer xml:id="layer-0000001915405441" n="1">
+                                    <note xml:id="note-0000001439378357" dur="breve" oct="5" pname="d" />
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure xml:id="measure-0000000818029578" right="single">
+                            <staff xml:id="staff-0000000228762644" n="1">
+                                <layer xml:id="layer-0000000436885350" n="1">
+                                    <note xml:id="note-0000000485488357" dur="breve" oct="5" pname="d" />
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                </score>
+            </mdiv>
+        </body>
+    </music>
+</mei>

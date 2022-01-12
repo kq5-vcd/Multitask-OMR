@@ -1,65 +1,40 @@
-1
+Normal:
 Semantic
-Complete accuracy: 24.96%
-Symbol error rate: 11.17%
-Error rate: 0.21%
+Accuracy: 24.24%
+Symbol error rate: 10.14%
+Symbol confusion rate: 4.17%
 
 Agnostic
-Complete accuracy: 25.97%
-Symbol error rate: 11.48%
-Error rate: 0.21%
+Accuracy: 18.98%
+Symbol error rate: 14.13%
+Symbol confusion rate: 8.41%
 
 Multitask
-Complete accuracy: 12.47%
-Semantic
-Complete accuracy: 17.12%
-Symbol error rate: 15.29%
-Error rate: 0.28%
-Agnostic
-Complete accuracy: 23.57%
-Symbol error rate: 12.41%
-Error rate: 0.24%
+Accuracy: 20.29%
+Semantic accuracy: 27.67%
+Semantic Symbol error rate: 9.40%
+Semantic Symbol confusion rate: 3.91%
+Agnostic accuracy: 32.15%
+Agnostic symbol error rate: 9.13%
+Agnostic symbol confusion rate: 4.89%
 
-2
-Multitask
-Complete accuracy: 22.91%
-Semantic
-Complete accuracy: 31.01%
-Symbol error rate: 9.0%
-Error rate: 0.15%
-Agnostic
-Complete accuracy: 36.76%
-Symbol error rate: 8.32%
-Error rate: 0.15%
 
+Distorted
 Semantic
-Complete accuracy: 17.68%
-Symbol error rate: 14.22%
-Error rate: 0.32%
+Accuracy: 17.96%
+Symbol error rate: 14.20%
+Symbol confusion rate: 7.50%
 
 Agnostic
-Complete accuracy: 22.79%
-Symbol error rate: 13.21%
-Error rate: 0.28%
-
-3. Distorted
-Semantic
-Complete accuracy: 12.84%
-Symbol error rate: 16.26%
-Error rate: 0.37%
-
-Agnostic
-Complete accuracy: 13.75%
-Symbol error rate: 15.71%
-Error rate: 0.38%
+Accuracy: 8.51%
+Symbol error rate: 18.20%
+Symbol confusion rate: 12.88%
 
 Multitask
-Complete accuracy: 7.39%
-Semantic
-Complete accuracy: 15.11%
-Symbol error rate: 15.01%
-Error rate: 0.3%
-Agnostic
-Complete accuracy: 20.2%
-Symbol error rate: 13.32%
-Error rate: 0.3%
+Accuracy: 6.17%
+Semantic accuracy: 14.01%
+Semantic Symbol error rate: 15.15%
+Semantic Symbol confusion rate: 6.99%
+Agnostic accuracy: 14.29%
+Agnostic symbol error rate: 14.94%
+Agnostic symbol confusion rate: 9.74%
